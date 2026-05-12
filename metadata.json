@@ -1,0 +1,6 @@
+{
+  "name": "QuadChess FFA",
+  "description": "A vibrant 4-player Free-For-All chess variant with custom board layout and real-time movement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
